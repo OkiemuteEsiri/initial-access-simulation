@@ -1,0 +1,8 @@
+[
+  {"event_id":"evt-001","technique":"phishing_link","asset":"finance-laptop-07","asset_criticality":"high","mfa":false,"managed_device":true,"successful":true,"user_privileged":false,"detection_present":true},
+  {"event_id":"evt-002","technique":"external_remote_service","asset":"remote-admin-gateway","asset_criticality":"critical","mfa":false,"managed_device":false,"successful":true,"user_privileged":true,"detection_present":false},
+  {"event_id":"evt-003","technique":"valid_cloud_account","asset":"cloud-admin-portal","asset_criticality":"critical","mfa":true,"managed_device":false,"successful":true,"user_privileged":true,"detection_present":true},
+  {"event_id":"evt-004","technique":"drive_by","asset":"research-workstation-12","asset_criticality":"medium","mfa":true,"managed_device":true,"successful":false,"user_privileged":false,"detection_present":true},
+  {"event_id":"evt-005","technique":"phishing_link","asset":"hr-laptop-03","asset_criticality":"medium","mfa":true,"managed_device":true,"successful":false,"user_privileged":false,"detection_present":false},
+  {"event_id":"evt-006","technique":"external_remote_service","asset":"vendor-access-portal","asset_criticality":"high","mfa":true,"managed_device":false,"successful":false,"user_privileged":false,"detection_present":true}
+]
